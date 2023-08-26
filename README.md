@@ -9,7 +9,7 @@ Good news! You don't need to install anything!
 ## Open the App
 
 1. Download and extract the `ChuenBank-main` file.
-2. Open `ChuenBank-V1-main` and click the `chuenbank.exe` file.
+2. Open `ChuenBank-main` and click the `chuenbank.exe` file.
 3. Have fun!
 
 ## Usage
