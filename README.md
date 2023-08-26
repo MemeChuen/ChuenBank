@@ -40,7 +40,7 @@ If you encounter any issues, contact us at memechuen@gmail.com.
 
 ## License
 
-ChuenBank is open-source software released under the [MIT License](https://opensource.org/license/mit/).
+ChuenBank is open-source software released under the [MIT License]([https://opensource.org/license/mit/](https://github.com/MemeChuen/ChuenBank-V1/blob/main/LICENSE)).
 
 ## Acknowledgments
 
