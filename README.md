@@ -19,7 +19,8 @@ Good news! You don't need to install anything!
 - To deposit: Use the `/deposit` command and enter the amount to deposit.
 - To withdraw: Use the `/withdraw` command and enter the amount to withdraw.
 - To view transaction history: Use the `/transactions` command.
-
+- To change your password: Use the `/changepassword` command and change your password.
+- To check your account's info: Use the `/account statements` command.
 ## Screenshots
 
 ### Login
@@ -33,6 +34,8 @@ Good news! You don't need to install anything!
 - Real-time balance checking
 - Deposit and withdrawal functionality
 - Transaction history tracking
+- Allow users to change their password
+- Allow users to check their account's info
 
 ## Troubleshooting
 
